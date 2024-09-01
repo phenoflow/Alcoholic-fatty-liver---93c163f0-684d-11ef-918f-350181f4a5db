@@ -1,0 +1,9 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/alcoholic-fatty-liver---icduncat.py
+inputModule3:
+  class: File
+  path: python/output-cases.py
